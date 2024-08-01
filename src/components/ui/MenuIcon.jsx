@@ -140,7 +140,7 @@ const MenuIcon = () => {
                 </p>
                 <a
                   className="text-secondary hover:text-primary transition duration-200 flex items-center space-x-2 py-2 px-2 rounded-md text-sm"
-                  href="https://portfolio-zeta-self-51.vercel.app/"
+                  href="https://github.com/ashutosh134?tab=repositories"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
