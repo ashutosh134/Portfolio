@@ -43,9 +43,9 @@ const MenuIcon = () => {
                   alt=""
                 />
                 <div className="pl-2 leading-3 pt-2">
-                  <h1 className="font-semibold mb-1 text-primary">Shivam</h1>
+                  <h1 className="font-semibold mb-1 text-primary">ASHUTOSH VERMA</h1>
                   <p className="text-sm tracking-tight text-secondary">
-                    Developer
+                  Web Developer
                   </p>
                 </div>
               </div>
