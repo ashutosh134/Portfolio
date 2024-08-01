@@ -140,7 +140,7 @@ const MenuIcon = () => {
                 </p>
                 <a
                   className="text-secondary hover:text-primary transition duration-200 flex items-center space-x-2 py-2 px-2 rounded-md text-sm"
-                  href="https://github.com/CMs-web"
+                  href="https://portfolio-zeta-self-51.vercel.app/"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -162,7 +162,7 @@ const MenuIcon = () => {
                 </a>
                 <a
                   className="text-secondary hover:text-primary transition duration-200 flex items-center space-x-2 py-2 px-2 rounded-md text-sm"
-                  href="https://www.linkedin.com/in/shivam-goswami-694636288/"
+                  href="https://www.linkedin.com/in/ashutosh-verma-52a8b126b/"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -188,7 +188,7 @@ const MenuIcon = () => {
                 </a>
                 <a
                   className="text-secondary hover:text-primary transition duration-200 flex items-center space-x-2 py-2 px-2 rounded-md text-sm"
-                  href="https://youtube.com/maninthere"
+                  href="https://wa.me/qr/SEB6EB6PJWYIL1"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
