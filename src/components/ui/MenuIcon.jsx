@@ -38,7 +38,7 @@ const MenuIcon = () => {
             <nav className=" px-6 z-[100] py-10 bg-neutral-100 lg:w-[14%] border-r border-neutral-200/[0.8] fixed top-0 h-screen lg:relative left-0 lg:flex flex-col justify-between max-w-[14rem]">
               <div className="flex items-center">
                 <img
-                  className="rounded-3xl w-10 object-cover object-right h-10"
+                  className="rounded-3xl w-10 object-cover object-center h-10"
                   src="/profile.jpeg"
                   alt=""
                 />
