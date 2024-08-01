@@ -39,13 +39,13 @@ const MenuIcon = () => {
               <div className="flex items-center">
                 <img
                   className="rounded-3xl w-10 object-cover object-right h-10"
-                  src="/avatar.png"
+                  src="/profile.jpeg"
                   alt=""
                 />
                 <div className="pl-2 leading-3 pt-2">
-                  <h1 className="font-semibold mb-1 text-primary">ASHUTOSH VERMA</h1>
+                  <h1 className="font-semibold mb-1 text-primary">ASHUTOSH</h1>
                   <p className="text-sm tracking-tight text-secondary">
-                  Web Developer
+                  Developer
                   </p>
                 </div>
               </div>
@@ -204,7 +204,7 @@ const MenuIcon = () => {
               </div>
               <a
                 className="bg-slate-900 no-underline group cursor-pointer relative shadow-2xl shadow-zinc-900 rounded-full p-px text-xs font-semibold leading-6  text-white inline-block"
-                href="/resume"
+                href="/Ashutosh's Resume.pdf"
               >
                 <span className="absolute inset-0 overflow-hidden rounded-full ">
                   <span className="absolute inset-0 rounded-full bg-[image:radial-gradient(75%_100%_at_50%_0%,rgba(56,189,248,0.6)_0%,rgba(56,189,248,0)_75%)] opacity-0 transition-opacity duration-500 group-hover:opacity-100"></span>
